@@ -1,5 +1,5 @@
-# Lab 1 - PowerShell: Getting Started
-# Courses: Introduction to PowerShell and PowerShell Basics
+# Lab Get Started with PowerShell Commands
+# Course - PowerShell: Getting Started
 
 ##### Notes and helpful Items - PLEASE READ #####
 # USE ALT+Z to toggle Word Wrap on the remarks for easier reading in VS Code.
