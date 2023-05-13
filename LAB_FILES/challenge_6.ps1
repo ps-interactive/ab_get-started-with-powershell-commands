@@ -1,3 +1,11 @@
+## Challenge Description
+
+## Documentation Link
+
+## Open Consoles
+
+## Scenario and Observable Completion
+
 #Demo - Pipelining and Objects
 #Get all the services on the computer
 $Computername = "LocalHost"

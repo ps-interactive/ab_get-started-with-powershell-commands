@@ -1,3 +1,10 @@
+## Challenge Description
+
+## Documentation Link
+
+## Open Consoles
+
+## Scenario and Observable Completion
 
 # Demo: Finding Object Properties with Get-Member
     # Run these commands in Windows PowerShell console as Administrator

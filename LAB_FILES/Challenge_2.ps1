@@ -1,7 +1,12 @@
 # Challenge 2 - Configure the PowerShell console 
 
+## Challenge Description
+
+## Documentation Link
+
 ## Open Consoles
 
+## Scenario and Observable Completion
 
 # Open as Administrator through gui
 
